@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smith8tl
+- 👀 I’m interested in creating data visualizations.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on baseball analytical data.
+- 📫 How to reach me: My email is smith8tl@gmail.com
